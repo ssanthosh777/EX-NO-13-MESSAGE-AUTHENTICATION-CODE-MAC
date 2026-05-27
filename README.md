@@ -1,6 +1,8 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-# SINDHU PRIYA REDDY
-# 212224040319
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
@@ -28,8 +30,7 @@ To implement MESSAGE AUTHENTICATION CODE(MAC)
 
 ## Program:
 
-```
-
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -110,9 +111,7 @@ int main()
 
 
 ## Output:
-
-
-<img width="1699" height="870" alt="image" src="https://github.com/user-attachments/assets/b34dbb82-57ab-429c-9ed3-505c80ec5536" />
+<img width="726" height="185" alt="image" src="https://github.com/user-attachments/assets/1996bf30-1c72-48a8-9940-6b13d5e3699a" />
 
 
 ## Result:
